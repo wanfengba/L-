@@ -6,6 +6,8 @@
 
 含有书单页面，但是本人没有添加字段有点麻烦，感兴趣的可以自己去研究，或者联系我
 
+最后可能改太急了导致手机端的导航有点问题，可以自己琢磨琢磨一下
+
 后台编辑器<br>
 <img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/09/2253929372.png">
 
@@ -32,3 +34,6 @@
 
 书籍介绍<br>
 <img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/09/2243373063.png">
+<br><br><br>
+如果我的主题对你有帮助，可以赞助一下
+<img src="https://cdn.jsdelivr.net/gh/wanfengba/tuping/usr/uploads/2021/09/846577408.png">
